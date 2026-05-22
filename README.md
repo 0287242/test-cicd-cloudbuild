@@ -421,6 +421,7 @@ To verify your trigger was created successfully:
 1. You should see your trigger listed on the **Triggers** page
 2. Click on the trigger name to view its configuration
 3. Verify all substitution variables are present in the **"Substitution variables"** section
+4. We need no select compute default service accounts
 
 ## Environment Variables
 
